@@ -3,13 +3,13 @@ ASSIGNMENT:                  Build a basic recipe website.
 SKILLS DEMONSTRATED:         HTML basics.
 
 
-PROJECT START DATE:          21 APRIL 2022.
+PROJECT START DATE:          21 April 2022.
 
 INITIAL PROJECT COMPLETION:  22 April 2022.
 
 PROJECT REVISIT:             N/A.
 
-LAST MODIFIED:               22 APRIL 2022.
+LAST MODIFIED:               22 April 2022.
 
 
 INITIAL THOUGHT PROCESS:
